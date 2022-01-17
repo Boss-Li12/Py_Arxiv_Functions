@@ -1,0 +1,48 @@
+008
+Intro to CS is the Best Course Ever
+2021-09-01
+
+Ponce,Marcelo
+Tafliovich,Anya Y.
+
+We present clear evidence that Introduction to
+Computer Science is the best course.
+END
+031
+Calculus is the Best Course Ever
+
+2021-09-02
+Breuss,Nataliya
+
+We discuss the reasons why Calculus is the best course.
+END
+067
+Discrete Mathematics is the Best Course Ever
+2021-09-02
+2021-10-01
+Pancer,Richard
+Bretscher,Anna
+
+We explain why Discrete Mathematics is the best course of all times.
+END
+827
+University of Toronto is the Best University
+2021-08-20
+2021-10-02
+Ponce,Marcelo
+Bretscher,Anna
+Tafliovich,Anya Y.
+
+We show a formal proof that the University of
+Toronto is the best university.
+END
+042
+
+2021-05-04
+2021-05-05
+
+This is a strange article with no title
+and no authors.
+
+It also has a blank line in its abstract!
+END
